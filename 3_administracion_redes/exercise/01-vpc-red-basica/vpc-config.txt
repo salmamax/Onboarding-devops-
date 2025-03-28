@@ -1,0 +1,4 @@
+VPC ID: vpc-8bba2f298584ab629
+Rango CIDR: 10.0.0.0/16
+Tabla de Enrutamiento ID: rtb-5112e6e42f4fef510
+Gateway de Internet ID: igw-79d00617883fd1d9e
