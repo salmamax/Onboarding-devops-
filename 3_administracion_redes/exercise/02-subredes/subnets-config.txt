@@ -1,0 +1,3 @@
+ID de la Subred Pública: subnet-fb986d14ea1c19883
+ID de la Subred Privada: subnet-4a019c7fd29ecd8dd
+ID de la Tabla de Enrutamiento Asociada a la Subred Pública: rtb-fa6edb69756382eaa

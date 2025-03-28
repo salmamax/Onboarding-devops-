@@ -1,0 +1,3 @@
+Nombre del Bucket: my-backup-bucket
+Archivos en el Bucket:
+- backup.txt
