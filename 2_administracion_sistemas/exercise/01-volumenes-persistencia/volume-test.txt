@@ -1,0 +1,11 @@
+[
+    {
+        "CreatedAt": "2025-03-27T13:17:35+01:00",
+        "Driver": "local",
+        "Labels": null,
+        "Mountpoint": "/var/lib/docker/volumes/nginx-data/_data",
+        "Name": "nginx-data",
+        "Options": null,
+        "Scope": "local"
+    }
+]
