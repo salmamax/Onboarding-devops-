@@ -1,0 +1,3 @@
+./CRON/Programación de Tareas con Cron y Scripts en Linux.pdf
+./Proyecto-Nmap/TAREAS/Análisis de Red y Seguridad con Nmap.pdf
+./KUBERNETES/Practica-kuberntes/Practica de Kubernetes.pdf
